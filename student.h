@@ -15,7 +15,7 @@ struct Student {
 
     char firstName[25];
     char secondName[25];
-    char thirdName[25];
+    char lastName[25];
     std::vector<Mark> marks;
     std::vector<Note> notes;
 };
